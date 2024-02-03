@@ -65,6 +65,60 @@ app.get('/',(req,res)=>{
         link:'https://www.youtube.com/embed/oGg3kzoR6lw?autoplay=1&mute=0&enablejsapi=1',
         thumbnail:"https://i.ytimg.com/vi/oGg3kzoR6lw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA0DaZCjZE4tTe8zxBelGstP6cqRA"
     },
+               {
+        id:12,
+        name:"Untitled #13 by glwzbll ( TikTok Version ) - SLOWED TO PERFECTION & REVERB ( 1 HOUR REMIX )",
+        link:'https://www.youtube.com/embed/Y0cayDl_NCI?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/Y0cayDl_NCI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDZ3TN-QERmn1j782FDAwywhPjqgA"
+    },
+    {
+        id:13,
+        name:"Memory reboot (Ultra slowed & reverb)",
+        link:'https://www.youtube.com/embed/r_wjTjwyY6o?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/r_wjTjwyY6o/hqdefault.jpg"
+    },
+    {
+        id:14,
+        name:"METAMORPHOSIS + SIGMA // SLOWED + REVERB // 1 HOUR",
+        link:'https://www.youtube.com/embed/yPcyk-9yXnk?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/yPcyk-9yXnk/hqdefault.jpg"
+    },
+    {
+        id:15,
+        name:"After Dark x Sweater Weather in rainy night | 1 hour loop",
+        link:'https://www.youtube.com/embed/k7903SnxR4I?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/k7903SnxR4I/hqdefault.jpg"
+    },
+    {
+        id:16,
+        name:"Music evokes emotions, which bring happiness and sadness",
+        link:'https://www.youtube.com/embed/DrVuH57SyJg?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/DrVuH57SyJg/hqdefault.jpg"
+    },
+    {
+        id:17,
+        name:"ＬＡＴＥ　ＮＩＧＨＴ　ＤＲＩＶＥ - Melancholic music",
+        link:'https://www.youtube.com/embed/tynU3bIj9aE?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/tynU3bIj9aE/hqdefault.jpg"
+    },
+    {
+        id:18,
+        name:"Alone Night Mashup | Slowed & Reverb Mashup6 2023 heart",
+        link:'https://www.youtube.com/embed//bhzSUBZrr2w?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/bhzSUBZrr2w/hqdefault.jpg"
+    },
+    {
+        id:19,
+        name:"Ram Siya Ram/राम सिया राम/Lofi Version Mangal Bhawan Amangal Hari One hour straight//Ram Bhajan",
+        link:'https://www.youtube.com/embed/ky3QhRlUO5s?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/ky3QhRlUO5s/hqdefault.jpg"
+    },
+    {
+        id:20,
+        name:"Tum se | Lofi Songs | [slowed+reverb]",
+        link:'https://www.youtube.com/embed/_PpI3rGQsX0?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/_PpI3rGQsX0/hqdefault.jpg"
+    },
    
 
 ])
