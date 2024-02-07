@@ -119,6 +119,12 @@ app.get('/',(req,res)=>{
         link:'https://www.youtube.com/embed/_PpI3rGQsX0?autoplay=1&mute=0&enablejsapi=1',
         thumbnail:"https://i.ytimg.com/vi/_PpI3rGQsX0/hqdefault.jpg"
     },
+              {
+        id:21,
+        name:"Hale dil (Slowed + Reverb)",
+        link:'https://www.youtube.com/embed/ONCo4OU2Ayo?autoplay=1&mute=0&enablejsapi=1',
+        thumbnail:"https://i.ytimg.com/vi/ONCo4OU2Ayo/hqdefault.jpg"
+    },
    
 
 ])
