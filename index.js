@@ -12,7 +12,7 @@ app.get('/',(req,res)=>{
     res.json([{
         id:1,
         name:"Teri Yaddon main khoya rhta hu",
-        link:'https://www.youtube.com/embed/vXMJhxUaGkw?autoplay=1&mute=0&enablejsapi=1&loop=1',
+        link:'https://www.youtube.com/embed/vXMJhxUaGkw?playlist=vXMJhxUaGkw&autoplay=1&iv_load_policy=3&loop=1&start=',
         thumbnail:"https://i.ytimg.com/vi/vXMJhxUaGkw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMvb1-iO7vk8XgwRblGe3VVTKsTw",
         videoId:'vXMJhxUaGkw'
          
