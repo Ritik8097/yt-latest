@@ -17,6 +17,15 @@ app.get('/',(req,res)=>{
         videoId:'vXMJhxUaGkw'
          
     },
+              {
+        id:21,
+        name:"Valentine week Special",
+        link:'https://www.youtube.com/embed/KLRL8XKThfw?playlist=KLRL8XKThfw&autoplay=1&iv_load_policy=3&loop=1&start=',
+        thumbnail:"https://i.ytimg.com/vi/KLRL8XKThfw/hqdefault.jpg",
+        videoId:'KLRL8XKThfw'
+         
+    },
+              
   
     {
         id:2,
