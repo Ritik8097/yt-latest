@@ -153,7 +153,7 @@ app.get('/',(req,res)=>{
                {
         id:23,
         name:"Master A backend in one video",
-        link:'https://www.youtube.com/embed/cGAdC4A5fF4?playlist=ONCo4OU2Ayo&autoplay=1&iv_load_policy=3&loop=1&start=',
+        link:'https://www.youtube.com/embed/cGAdC4A5fF4?playlist=cGAdC4A5fF4&autoplay=1&iv_load_policy=3&loop=1&start=',
         thumbnail:"https://i.ytimg.com/vi/cGAdC4A5fF4/hqdefault.jpg",
                   videoId:'cGAdC4A5fF4'
     },
