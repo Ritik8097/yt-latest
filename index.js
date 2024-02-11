@@ -150,6 +150,13 @@ app.get('/',(req,res)=>{
         thumbnail:"https://i.ytimg.com/vi/ONCo4OU2Ayo/hqdefault.jpg",
                   videoId:'ONCo4OU2Ayo'
     },
+               {
+        id:23,
+        name:"Master A backend in one video",
+        link:'https://www.youtube.com/embed/cGAdC4A5fF4?playlist=ONCo4OU2Ayo&autoplay=1&iv_load_policy=3&loop=1&start=',
+        thumbnail:"https://i.ytimg.com/vi/cGAdC4A5fF4/hqdefault.jpg",
+                  videoId:'cGAdC4A5fF4'
+    },
    
 
 ])
